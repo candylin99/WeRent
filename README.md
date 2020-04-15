@@ -30,24 +30,24 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### 项目图片
-## 首页
+## 项目图片
+### 首页
 <img src="https://github.com/candylin99/WeRent/blob/master/src/status/projectImage/index.png?raw=true" width="900px" width="300px" alt="首页"/>
 
-## 导航栏
+### 导航栏
 <img src="https://github.com/candylin99/WeRent/blob/master/src/status/projectImage/nav.png?raw=true" width="900px" width="300px" alt="导航栏"/>
 
-## 登录
+### 登录
 <img src="https://github.com/candylin99/WeRent/blob/master/src/status/projectImage/login.png?raw=true" width="900px" width="300px" alt="登录"/>
 
-## 房源列表
+### 房源列表
 <img src="https://github.com/candylin99/WeRent/blob/master/src/status/projectImage/rent.png?raw=true" width="900px" width="300px" alt="房源列表"/>
 
-## 房源推荐
+### 房源推荐
 <img src="https://github.com/candylin99/WeRent/blob/master/src/status/projectImage/rent2.png?raw=true" width="900px" width="300px" alt="房源推荐"/>
 
-## 分享小组
+### 分享小组
 <img src="https://github.com/candylin99/WeRent/blob/master/src/status/projectImage/social.png?raw=true" width="900px" width="300px" alt="分享小组"/>
 
-## 小组详情
+### 小组详情
 <img src="https://github.com/candylin99/WeRent/blob/master/src/status/projectImage/socialDetail.png?raw=true" width="900px" width="300px" alt="小组详情"/>
